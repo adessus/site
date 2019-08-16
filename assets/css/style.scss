@@ -1,5 +1,7 @@
-  ```scss
-    
+
+---
+---
+@import "{{ site.theme }}";
 table {
     display: block;
     width: 100%;
@@ -14,6 +16,3 @@ table {
       border: 0px solid transparent $table-border-color;
     }
 }
-
-    @import "{{ site.theme }}";
-    ```
