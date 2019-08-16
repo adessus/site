@@ -2,6 +2,9 @@
 ---
 ---
 @import "{{ site.theme }}";
+.page-header {
+    background: #191c20;
+}
 table {
     display: block;
     width: 100%;
