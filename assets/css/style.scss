@@ -3,7 +3,5 @@
     ---
 
     @import "{{ site.theme }}";
-    table {
-  border: 0px;
-}
+    table {border:0px solid transparent;}
     ```
