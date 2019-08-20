@@ -307,7 +307,6 @@ a {
   }
 
   table {
-    bordercolor="#FFFFFF";
     display: block;
     width: 100%;
     overflow: auto;
@@ -322,7 +321,7 @@ a {
     th,
     td {
       padding: 0.5rem 1rem;
-      border: 0px solid transparent $table-border-color;
+      border: 1px solid $table-border-color;
     }
   }
 
