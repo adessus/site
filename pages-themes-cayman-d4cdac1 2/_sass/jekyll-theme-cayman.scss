@@ -305,9 +305,9 @@ a {
       margin-bottom: 0;
     }
   }
-
+  
   table {
-    border: 0;
+    border: none;
     display: block;
     width: 100%;
     overflow: auto;
@@ -322,7 +322,7 @@ a {
     th,
     td {
       padding: 0.5rem 1rem;
-      border: 0 #FFFFFF;
+      border: none;
     }
   }
 
